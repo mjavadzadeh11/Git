@@ -18,7 +18,7 @@ for adding a branch : git checkout -b "name of new branch"
 git checkout main ==> back to master branch
 (this content produced in a branch called feature)
 git diff : before merging to branch we can double check the differences which made ==> git diff + name of the branch
-git merge
+on the branch : git merge main
 
 ## deleting a branch: 
 git branch -d "name of branch"
