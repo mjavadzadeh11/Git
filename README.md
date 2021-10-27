@@ -12,3 +12,7 @@ if we have a folder which desire to send online on github: after creating that f
 after that git add -A ==> git commit -m "massage"
 git remote add + SSH link ==> git remote -v 
  
+## adding branch:
+for adding a branch : git checkout -b "name of new branch"
+git checkout main ==> back to master branch
+(this content produced in a branch called feature)
