@@ -10,7 +10,7 @@ for pushing back a code back to the github reposetory: git push origin (name of 
 ## Local-push:
 if we have a folder which desire to send online on github: after creating that folder we go inside of that folder and initialize a git command: git init 
 after that git add -A ==> git commit -m "massage"
-git remote add + SSH link ==> git remote -v 
+git remote add origin + SSH link ==> git remote -v 
  
 ## Adding branch:
 for adding a branch : git checkout -b "name of new branch"
